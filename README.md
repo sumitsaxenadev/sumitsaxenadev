@@ -29,3 +29,13 @@
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/sumitsaxenadev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
   </a>
 </p>
+
+
+
+ <p align="center">
+   <!--  Streaks stats   -->
+  <a href="https://github.com/Sumittecorb/">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sumittecorb" src="https://github-readme-streak-stats.herokuapp.com/?user=Sumittecorb&theme=monokai-metallian&hide_border=true"/>
+  </a>
+</p>
+ 
