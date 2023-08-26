@@ -30,6 +30,19 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/Sumittecorb">
+    <img
+      height="150"
+      src="https://github-readme-stats.vercel.app/api?username=Sumittecorb&count_private=true&show_icons=true&custom_title=Sumittecorb's%20Github%20Status&theme=vision-friendly-dark"
+    />
+  </a>
+  <a href="https://github.com/Sumittecorb">
+    <img
+      height="150"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumittecorb&layout=compact&theme=vision-friendly-dark" />
+  </a>  
+</p>
 
 
  <p align="center">
