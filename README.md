@@ -30,19 +30,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/sumitsaxenadev">
-    <img
-      height="150"
-      src="https://github-readme-stats.vercel.app/api?username=sumitsaxenadev&count_private=true&show_icons=true&custom_title=sumitsaxenadev's%20Github%20Status&theme=vision-friendly-dark"
-    />
-  </a>
-  <a href="https://github.com/sumitsaxenadev">
-    <img
-      height="150"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitsaxenadev&layout=compact&theme=vision-friendly-dark" />
-  </a>  
-</p>
 
 
  <p align="center">
