@@ -52,5 +52,14 @@
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="sumitsaxenadev" src="https://github-readme-streak-stats.herokuapp.com/?user=sumitsaxenadev&theme=monokai-metallian&hide_border=true"/>
   </a>
 </p>
- 
+
+
+  <details> 
+   <summary>&#127942 <b>GitHub Activity (Public Data)</b></summary><br/> 
+
+![Metrics](https://metrics.lecoq.io/Sumittecorb?template=classic&followup=1&isocalendar=1&languages=1&isocalendar.duration=half-year&config.timezone=America%2FSao_Paulo)
+
+</details> 
+
+
 
