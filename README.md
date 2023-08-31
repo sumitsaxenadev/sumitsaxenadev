@@ -46,6 +46,12 @@
 
 
 
+ <p align="center">
+   <!--  Streaks stats   -->
+  <a href="https://github.com/sumitsaxenadev/">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="sumitsaxenadev" src="https://github-readme-streak-stats.herokuapp.com/?user=sumitsaxenadev&theme=monokai-metallian&hide_border=true"/>
+  </a>
+</p>
 
 
   <details> 
